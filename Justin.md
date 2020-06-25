@@ -1,4 +1,4 @@
-# Keyboards til Justin or Nick =)
+# Keyboards til Justin =)
 
 Hej Justin, tak for en god samtale! Håber den var som forventet.
 
