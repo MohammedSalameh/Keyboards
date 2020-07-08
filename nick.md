@@ -1,42 +1,33 @@
 # Keyboard til Nick ;)
 
-Hej Nick, tak for en god samtale! Håber den var som forventet.
 
-Hernede sætter jeg alle detaljer omkring dit potentielle tastatur og hvad der "kunne" blive det "finalized" version.
-
-I modsætning til Justin, så er det ikke svært at finde 60% keyboard. Dog er det svært at finde __Wireless__ versioner, da der ikke er meget efterspørgsel endnu.
-
-En af problemerne med det tastatur du prøvede var at vinklen var for høj (mit keyboard var på 7 graders tastevinkel dog var det et meget højt case), billeder vises nedenunder i produkt linket.
-
-Hvis man er åben, er der mulighed for et seperat wrist pad som mindsker vinklen.
-
-Jeg ville selfølgelig lave ekstra research og finde ud af hvad man er begrænset til og hvad der er tilgængeligt. Alt nedenunder er hvad jeg har fundet.
-
-**TIL DET GODE STUFF**
+Alle dine muligheder mht. case er stadig i dette link: [Produkt](https://imgur.com/a/7mHGrTa)
 
 ## 60+ % Keyboard
-![image](https://armno.in.th/2020/03/10/customizing-tmk-firmware-gh60-pcb/images/default-60.png)
+Jeg har udfra dit svar på sms at du gerne ville have dette case i sølv:
+![Lavprofils case i sølv](https://i.imgur.com/ahYFHhr.png)
 
-Jeg har udfra hvad vi snakkede om, at det var det overstående layout du ville have og har fundet det her til dig:
+Du nævnte at du ville have nogle pil taster til højre for spacebaren, istedet for alt, windows, ctrl og det ville se sådanne ud: 
+Med Pil taster:
 
-Her kan du se nogle generet billeder af nogle potentielle cases samt farver: [Produkt](https://imgur.com/a/7mHGrTa)
+![image](https://cdn.discordapp.com/attachments/276811513761759242/730441724291448903/unknown.png)
 
+Hvis jeg ikke husker forkert, var du ikke så stor fan af den lille shift. Og derfor tog udgangspunkt i dette layout (uden arrow keys)
 
-### Specs
-  - **Vægt**: Aluminium-Case=760g 
-  - **Case materiale**: Anodiseret Aluminium
-  - **Vægt materiale**: Ingen
-### Features (PCB)
-  - **Bluetooth 5**
-  - **Lys i taster og under PCB**
-  - **USB Type C**
-  
-  
-## Produkt tilgængelighed
-Detter Produkt har ikke så langtid men er meget populært og har ventetid på enten ca. 1-2 eller 5-6 måneder. Som altid ville jeg gøre mit bedste så du kan få det hurtigst muligt.
+![image](https://cdn.discordapp.com/attachments/276811513761759242/730439912419098634/unknown.png)
 
-Pris eksklusiv alt andet som Switches, Keycaps, Stabilisatorer etc. __1800 DKK__.
+Dog kan Fn knappen helt til højre bruges til at lave WASD knapperne til piltaster når du holder Fn knappen nede. Kunne det være noget?
 
-Ven venligst tilbage på mobil med dine bekymrelser og ellers ring!
+## Keycaps
+Det eneste der mangler nu er **Keycaps**.
+ - Skulle det være helt hvid?
+ - Skal der være lys i de enkelte taster?
+ - Accent farve taster som shift, enter og/eller backspace i hvilke farve?
+ 
+## Pris
+
+Nuværende Pris: __3160 DKK__.
+
+Ven venligst tilbage på mobil (Jeg er på signal med samme nummer!) med dit foretrukken layout og keycaps!
 
 
