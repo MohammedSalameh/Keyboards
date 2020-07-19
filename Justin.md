@@ -10,16 +10,6 @@ Du kan stadig checke farver og produktet på dette link: [Produkt](https://imgur
 
 Vælg det du bedst kan lide!
 
-### Specs
-  - **Vægt**: 2370g
-  - **Dimensioner**: **L**358 x **B**134 x **H**32mm
-  - **Case materiale**: Anodiseret Aluminium
-  - **Vægt materiale**: Børstet Messing Vægt&Plade
-### Features (PCB)
-  - **Lys i taster og under PCB**
-  - **Num lock indikator/backlight switch**
-  - **USB Type C**
-  
 ## Keycaps
 Det eneste der mangler nu er Keycaps.
   - Skulle det være helt hvid?
