@@ -4,10 +4,11 @@ Hej Justin, der er gået et stykke tid siden vi har snakket!
 
 Håber ferien har været god! Og velkommen tilbage =)
 
-Du kan stadig checke farver og produktet på dette link: [Produkt](https://imgur.com/a/b5DFNUW)
-
 ## TKL (med windows taster mellem CTRL & ALT) / WKL (uden windows taster mellem CTRL & ALT)
-Jeg har udfra hvad vi snakkede om, fundet det her TKL til dig:
+
+Du kan stadig checke farver og produktet på dette link: [Produkt](https://imgur.com/a/b5DFNUW) 
+
+Vælg det du bedst kan lide!
 
 ### Specs
   - **Vægt**: 2370g
